@@ -1,0 +1,24 @@
+{
+  "name": "fischertechnik",
+  "version": "1.0.0",
+  "description": "FischerTechnik Industry Robots ROB3",
+  "main": "fir3.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterTadich/FischerTechnik.git"
+  },
+  "author": "Peter Tadich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PeterTadich/FischerTechnik/issues"
+  },
+  "homepage": "https://github.com/PeterTadich/FischerTechnik#readme",
+  "dependencies": {
+    "homogeneous-transformations": "git+https://github.com/PeterTadich/homogeneous-transformations.git",
+    "matrix-computations": "git+https://github.com/PeterTadich/matrix-computations.git",
+    "singular-value-decomposition": "git+https://github.com/PeterTadich/singular-value-decomposition.git"
+  }
+}
